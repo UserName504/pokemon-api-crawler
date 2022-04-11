@@ -7,7 +7,7 @@ Be sure to use a virtual environment:
 > $ python3 -m venv path/to/env
 > ```
 
-To activate:the virtual environment:
+To activate the virtual environment:
 > ```sh
 > $ source venv/bin/activate
 > ```
@@ -23,6 +23,4 @@ To run:
 > ```
 
 View the server via the following:
-> ```sh
-> $ localhost:8000
-> ```
+`localhost:8000`
