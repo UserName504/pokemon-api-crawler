@@ -16,6 +16,8 @@ To activate the virtual environment:
 > $ source venv/bin/activate
 > ```
 
+Upon activation, run `pip list`. Only `pip` and `setuptools` should be installed in the virtual environment.
+
 Once the venv has been activated, install requirements:
 > ```sh
 > $ pip install -r requirements.txt
