@@ -1,6 +1,6 @@
 # pokemon-api-crawler
 
-A web API displaying data from [PokeAPI] (https://pokeapi.co/). Made using the [Django REST framework](https://www.django-rest-framework.org/).
+A web API displaying data from [PokeAPI](https://pokeapi.co/). Made using the [Django REST framework](https://www.django-rest-framework.org/).
 
 The following tutorial was used as a basis point: https://docs.docker.com/samples/django/
 
