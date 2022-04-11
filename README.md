@@ -1,6 +1,6 @@
 # pokemon-api-crawler
 
-The following tutorial was usedas a basis point: https://docs.docker.com/samples/django/
+The following tutorial was used as a basis point: https://docs.docker.com/samples/django/
 
 ## Setup
 
