@@ -8,7 +8,7 @@ The following tutorial was used as a basis point: https://docs.docker.com/sample
 
 Be sure to use a virtual environment:
 > ```sh
-> $ python3 -m venv path/to/env
+> $ python3 -m venv venv
 > ```
 
 To activate the virtual environment:
