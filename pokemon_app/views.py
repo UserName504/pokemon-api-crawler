@@ -13,7 +13,7 @@ class PokemonViewSet(viewsets.ModelViewSet):
     serializer_class = PokemonSerializer
     filter_backends = [filters.SearchFilter, filters.OrderingFilter]
     search_fields = ['name', 'type1', 'type2']
-    ordering_fields = ['serial', 'name', 'hp', 'attack', 'defense', 'sp_atk', 'sp_def', 'speed', 'generation']
+    ordering_fields = ['serial', 'name', 'generation']
     ordering = ['serial']
 
     def create(self, request, *args, **kwargs):
