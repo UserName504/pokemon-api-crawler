@@ -4,6 +4,8 @@ A web API displaying data from [PokeAPI](https://pokeapi.co/). Made using the [D
 
 The following tutorial was used as a basis point: https://docs.docker.com/samples/django/
 
+The `.gitignore` file ws inspired by: https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/
+
 ## Setup
 
 Be sure to use a virtual environment:
